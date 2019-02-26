@@ -32,10 +32,10 @@ h2 {
 }
 
 .title-image {
-    width:30%;
+    width:25%;
     transform: rotate(17deg);
     position: absolute;
-    top:-70px;
+    top:-90px;
     right: 0%;
 }
 
